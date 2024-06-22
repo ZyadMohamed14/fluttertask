@@ -11,3 +11,5 @@ Data: Fetches and displays data from provided dummy data.
 Design: Matches Figma design for mobile and allows flexibility for web
 
 
+
+
